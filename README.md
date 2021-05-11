@@ -18,8 +18,11 @@ Shiro550 无Commons-collections依赖利用工具：
    
     命令执行成功
    ```
+# 免责声明
+该工具仅用于安全研究、企业安全自查使用，请勿用于非法用途。
 
 # REFERENCE
 https://www.leavesongs.com/PENETRATION/commons-beanutils-without-commons-collections.html
+
 
    
