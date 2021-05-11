@@ -19,4 +19,7 @@ Shiro550 无Commons-collections依赖利用工具：
     命令执行成功
    ```
 
+# REFERENCE
+https://www.leavesongs.com/PENETRATION/commons-beanutils-without-commons-collections.html
+
    
