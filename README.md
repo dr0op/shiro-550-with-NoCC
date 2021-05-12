@@ -24,5 +24,8 @@ Shiro550 无Commons-collections依赖利用工具：
 # REFERENCE
 https://www.leavesongs.com/PENETRATION/commons-beanutils-without-commons-collections.html
 
+# THANKS
+奇安信北京攻防团队。
+摇人，摇人。简历发送至MTE4MzgzNDc1NAo=
 
    
